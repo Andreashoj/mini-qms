@@ -8,3 +8,7 @@ node_modules/
 
 # Rails tmp cache
 api/tmp/cache/
+
+api/.env
+
+*/.env
